@@ -387,8 +387,7 @@ console.log("Failed To Join:\n The Channel Type isn't \"text\"");
 });
 
 
-const Discord = require("discord.js");
-const client = new Discord.Client();
+
 client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Desert Bot- Script By : Diamond Codes`);
