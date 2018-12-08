@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= t
-game= !thelp
+token=NTE4Mzk4NDMzNzk5NzAwNDg3.Du2wqg.Wg9Zr_NmPpyeI0nMwN0XFoffRmI 
+owner=228139766573432832 
+prefix= 1
+game= Universe Bot.
 stayinchannel=true
 songinstatus=false
